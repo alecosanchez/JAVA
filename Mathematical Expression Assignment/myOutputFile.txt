@@ -1,0 +1,20 @@
+
+X Values: 		Y Values: 			Polarity: 
+
+X =  -3.0		Y =   -5.683		Y IS NEGATIVE 
+X =  -2.5		Y =   -7.463		Y IS NEGATIVE 
+X =  -2.0		Y =  -10.955		Y IS NEGATIVE 
+X =  -1.5		Y =  -25.691		Y IS NEGATIVE 
+X =  -1.0		Y =   -3.333		Y IS NEGATIVE 
+X =  -0.5		Y =    0.978		Y IS POSITIVE 
+X =  0.0		Y =    2.000		Y IS POSITIVE 
+X =  0.5		Y =    0.699		Y IS POSITIVE 
+X =  1.0		Y =   -1.667		Y IS NEGATIVE 
+X =  1.5		Y =   -8.564		Y IS NEGATIVE 
+X =  2.0		Y =   -2.191		Y IS NEGATIVE 
+X =  2.5		Y =   -0.678		Y IS NEGATIVE 
+X =  3.0		Y =    0.000		Y IS ZERO 
+X =  3.5		Y =    0.351		Y IS POSITIVE 
+X =  4.0		Y =    0.543		Y IS POSITIVE 
+
+			The Table is Finished!
