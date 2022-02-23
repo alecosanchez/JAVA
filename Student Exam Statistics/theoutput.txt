@@ -1,0 +1,108 @@
+ID: 1234
+22.0 Right	20.0 Wrong
+Total Answered: 42.0
+8.0 Omitted
+Grade: 44.0
+Correct answer percentage: 0.52
+More Right than wrong
+less than 10 omitted
+
+ID: 3456
+40.0 Right	5.0 Wrong
+Total Answered: 45.0
+5.0 Omitted
+Grade: 80.0
+Correct answer percentage: 0.89
+More Right than wrong
+less than 10 omitted
+
+ID: 4759
+10.0 Right	35.0 Wrong
+Total Answered: 45.0
+5.0 Omitted
+Grade: 20.0
+Correct answer percentage: 0.22
+More Wrong than right
+less than 10 omitted
+
+ID: 9876
+10.0 Right	30.0 Wrong
+Total Answered: 40.0
+10.0 Omitted
+Grade: 20.0
+Correct answer percentage: 0.25
+More Wrong than right
+
+ID: 4567
+20.0 Right	20.0 Wrong
+Total Answered: 40.0
+10.0 Omitted
+Grade: 40.0
+Correct answer percentage: 0.50
+
+ID: 5678
+15.0 Right	15.0 Wrong
+Total Answered: 30.0
+20.0 Omitted
+Grade: 30.0
+Correct answer percentage: 0.50
+More than 10 omitted
+
+ID: 7465
+49.0 Right	0.0 Wrong
+Total Answered: 49.0
+1.0 Omitted
+Grade: 98.0
+Correct answer percentage: 1.00
+More Right than wrong
+less than 10 omitted
+
+ID: 7465
+0.0 Right	13.0 Wrong
+Total Answered: 13.0
+37.0 Omitted
+Grade: 0.0
+Correct answer percentage: 0.00
+More Wrong than right
+More than 10 omitted
+
+ID: 7465
+15.0 Right	17.0 Wrong
+Total Answered: 32.0
+18.0 Omitted
+Grade: 30.0
+Correct answer percentage: 0.47
+More Wrong than right
+More than 10 omitted
+
+ID: 7564
+35.0 Right	14.0 Wrong
+Total Answered: 49.0
+1.0 Omitted
+Grade: 70.0
+Correct answer percentage: 0.71
+More Right than wrong
+less than 10 omitted
+
+ID: 9263
+41.0 Right	7.0 Wrong
+Total Answered: 48.0
+2.0 Omitted
+Grade: 82.0
+Correct answer percentage: 0.85
+More Right than wrong
+less than 10 omitted
+
+ID: 28534
+2.0 Right	7.0 Wrong
+Total Answered: 9.0
+41.0 Omitted
+Grade: 4.0
+Correct answer percentage: 0.22
+More Wrong than right
+More than 10 omitted
+
+ID: -1
+
+Sentinel marked, all students accounted for!
+Total number of students: 12
