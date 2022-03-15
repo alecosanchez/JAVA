@@ -1,0 +1,265 @@
+score 1: 289
+score 2: 82
+score 3: 155
+289: professional game
+82: poor game
+155: very good game
+Your average score is: 175
+175: very good game
+
+
+
+
+score 1: 84
+score 2: 234
+score 3: 288
+84: poor game
+234: excellent game
+288: professional game
+Your average score is: 202
+202: excellent game
+
+
+
+
+score 1: 300
+score 2: 173
+score 3: 231
+300: professional game
+173: very good game
+231: excellent game
+Your average score is: 234
+234: excellent game
+
+
+
+
+score 1: 123
+score 2: 255
+score 3: -20
+Score 3 is negative, invalid
+
+score 1: 145
+score 2: 200
+score 3: 301
+Score 3 is greater than 300, invalid
+
+score 1: 100
+score 2: 101
+score 3: 102
+100: good game
+101: good game
+102: good game
+Your average score is: 101
+101: good game
+
+
+
+
+score 1: 305
+score 2: 284
+score 3: 193
+Score 1 is greater than 300
+
+score 1: 175
+score 2: 195
+score 3: 285
+175: very good game
+195: very good game
+285: professional game
+Your average score is: 218
+218: excellent game
+
+
+
+
+score 1: 40
+score 2: 28
+score 3: -106
+Score 3 is negative, invalid
+
+score 1: 300
+score 2: 289
+score 3: 148
+300: professional game
+289: professional game
+148: very good game
+Your average score is: 245
+245: excellent game
+
+
+
+
+score 1: 41
+score 2: -100
+score 3: 168
+Score 2 is less than 0
+
+score 1: 285
+score 2: 195
+score 3: 230
+285: professional game
+195: very good game
+230: excellent game
+Your average score is: 236
+236: excellent game
+
+
+
+
+score 1: 195
+score 2: 285
+score 3: -3
+Score 3 is negative, invalid
+
+score 1: 295
+score 2: 284
+score 3: 294
+295: professional game
+284: professional game
+294: professional game
+Your average score is: 291
+291: professional game
+
+
+
+
+score 1: 800
+score 2: 100
+score 3: 105
+Score 1 is greater than 300
+
+score 1: 196
+score 2: 295
+score 3: 183
+196: very good game
+295: professional game
+183: very good game
+Your average score is: 224
+224: excellent game
+
+
+
+
+score 1: 1
+score 2: 100
+score 3: 301
+Score 3 is greater than 300, invalid
+
+score 1: 5
+score 2: 15
+score 3: 40
+5: Horrible game
+15: Horrible game
+40: Horrible game
+Your average score is: 20
+20: Horrible game
+
+
+
+
+score 1: 1
+score 2: 2
+score 3: -33
+Score 3 is negative, invalid
+
+score 1: 100
+score 2: 81
+score 3: 50
+100: good game
+81: poor game
+50: poor game
+Your average score is: 77
+77: poor game
+
+
+
+
+score 1: 194
+score 2: 200
+score 3: 800
+Score 3 is greater than 300, invalid
+
+score 1: 200
+score 2: 205
+score 3: 900
+Score 3 is greater than 300, invalid
+
+score 1: 189
+score 2: 182
+score 3: 190
+189: very good game
+182: very good game
+190: very good game
+Your average score is: 187
+187: very good game
+
+
+
+
+score 1: 205
+score 2: 260
+score 3: 230
+205: excellent game
+260: professional game
+230: excellent game
+Your average score is: 231
+231: excellent game
+
+
+
+
+score 1: 100
+score 2: 200
+score 3: 300
+100: good game
+200: excellent game
+300: professional game
+Your average score is: 200
+200: excellent game
+
+
+
+
+score 1: 200
+score 2: 300
+score 3: 400
+Score 3 is greater than 300, invalid
+
+score 1: 290
+score 2: 291
+score 3: 280
+290: professional game
+291: professional game
+280: professional game
+Your average score is: 287
+287: professional game
+
+
+
+
+score 1: 100
+score 2: 200
+score 3: -10
+Score 3 is negative, invalid
+
+score 1: 80
+score 2: 50
+score 3: -200
+Score 3 is negative, invalid
+
+score 1: 100
+score 2: 200
+score 3: 300
+100: good game
+200: excellent game
+300: professional game
+Your average score is: 200
+200: excellent game
+
+
+
+
+There are 30 groups
+There are 16 valid groups
+There are 14 invalid groups
