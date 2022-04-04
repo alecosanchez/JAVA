@@ -1,0 +1,143 @@
+Selection: Addition
+Augend: 10
+Addend : 25
+Sum : 35
+
+Selection: Addition
+Augend: 48
+Addend : 295
+Sum : 343
+
+Selection: Addition
+Augend: 100
+Addend : -500
+Sum : -400
+
+Selection: Subtraction
+Minuend: 200
+Subtrahend: 100
+Difference: 100
+
+Selection: Subtraction
+Minuend: -100
+Subtrahend: 20
+Difference: -120
+
+Selection: Subtraction
+Minuend: 80
+Subtrahend: 40
+Difference: 40
+
+Enter a multiplicand:
+Multiplicand: 10
+Multiplier: 25
+Product: 250
+
+Enter a multiplicand:
+Multiplicand: 13
+Multiplier: 3
+Product: 39
+
+Enter a multiplicand:
+Multiplicand: 15
+Multiplier: -10
+Product: -150
+
+Selection: Division
+Dividend: 100
+Divisor: 10
+Quotient: 10
+
+Selection: Division
+Dividend: 25
+Divisor: -5
+Quotient: -5
+
+Selection: Division
+Dividend: 90
+Divisor: 33
+Quotient: 2
+
+Selection: Modulo
+First Number: 90
+Second Number: 13
+Modulo: 12
+
+Selection: Modulo
+First Number: 15
+Second Number: -4
+Modulo: 3
+
+Selection: Modulo
+First Number: 70
+Second Number: 30
+Modulo: 10
+
+Selection: Average
+First Number: 100
+Second Number: 50
+Average: 75
+
+Selection: Average
+First Number: -100
+Second Number: 100
+Average: 0
+
+Selection: Average
+First Number: 33
+Second Number: 66
+Average: 49
+
+Selection: Maximum
+First Number: 100
+Second Number: 80
+Maximum: 100
+
+Selection: Maximum
+First Number: 90
+Second Number: 91
+Maximum: 91
+
+Selection: Maximum
+First Number: -100
+Second Number: -99
+Maximum: -99
+
+Selection: Minimum
+First Number: 25
+Second Number: 26
+Maximum: 25
+
+Selection: Minimum
+First Number: -100
+Second Number: -105
+Maximum: -105
+
+Selection: Minimum
+First Number: 85
+Second Number: 84
+Maximum: 84
+
+Selection: Square
+First Number: 25
+Square: 625
+
+Selection: Square
+First Number: 13
+Square: 169
+
+Selection: Square
+First Number: -5
+Square: 25
+
+Invalid input
+Invalid input
+Invalid input
+Invalid input
+Selection: Minimum
+First Number: 49
+Second Number: 28
+Maximum: 28
+
+Invalid input
+Invalid input

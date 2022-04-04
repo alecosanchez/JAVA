@@ -1,0 +1,34 @@
++ 10 25
++ 48 295
++ 100 -500
+- 200 100
+- -100 20
+- 80 40
+* 10 25
+* 13 3
+* 15 -10
+/ 100 10
+/ 25 -5
+/ 90 33
+% 90 13
+% 15 -4
+% 70 30
+A 100 50
+A -100 100
+A 33 66
+X 100 80
+X 90 91
+X -100 -99
+M 25 26
+M -100 -105
+M 85 84
+S 25
+S 13
+S -5
+Invalid input
+Invalid input
+Invalid input
+Invalid input
+M 49 28
+Invalid input
+Invalid input
